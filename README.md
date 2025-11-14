@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+ <p align="center">
     <b>API que permite gerenciar projetos e tarefas</b>
 </p>
 
